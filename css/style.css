@@ -1,0 +1,86 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif; 
+
+} */
+
+
+ /*sessao de skills*/ 
+
+/* 
+.skills{
+    text-align: center;
+    width: 100%;
+
+
+} */
+.clear {
+    clear: both;
+}
+.btn-contato{
+    color: white;
+}
+
+.author {
+    display: flex;
+}
+.content {
+    justify-content: center;
+    align-items: center;
+}
+.skills h1{
+    color: white;
+    max-width: 350px;
+    max-height: 60px;
+    background: black;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 30px;
+    font-weight: normal;
+    border-radius: 30px;
+    position: relative;
+    top: -30px;
+}
+.skills .container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px 1%;
+
+}
+.skill .skills-wraper{
+    text-align: center;
+    width: 100%;
+  /*   display: inline-block; */
+
+}
+
+.skills .skill-single{
+    text-align: center;
+    margin: 2px;
+    width: 22%;
+    font-size: 40px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+.skill-single h2{
+    font-size:68px;
+    color: #6610f2;
+    text-align: center;
+
+
+}
+.skill-single h2:hover{
+
+    color:rgb(130, 211, 231);
+
+}
+
+.skill-single:hover{
+    box-shadow: 1px 6px 14px -6px rgb(130, 211, 231);
+    
+}
+
+
