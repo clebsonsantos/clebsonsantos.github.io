@@ -100,7 +100,7 @@
 
 }
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:18000px){
     .row {
         display: flex;
        justify-content: center;
