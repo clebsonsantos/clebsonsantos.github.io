@@ -83,4 +83,34 @@
     
 }
 
+@media screen and (max-width:510px){
 
+
+    .row .author {
+        padding: 0;
+        max-width: 300px;
+    }
+
+    .skill-single h2{
+        font-size:50px;
+        color: #6610f2;
+        text-align: center;
+    
+    
+    }
+
+
+}
+
+@media screen and (max-width:1000px){
+    .row {
+        display: flex;
+       justify-content: center;
+    }
+    .author{
+       justify-content: center;
+        align-items: center;
+    }
+
+
+}
